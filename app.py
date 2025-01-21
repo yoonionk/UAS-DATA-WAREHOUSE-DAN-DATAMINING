@@ -31,8 +31,8 @@ def predict_premium(age, sex, bmi, children, smoker):
 
 def main():
     # Title and student info
-    st.title("Insurance Premium Prediction")
-    st.markdown("### Student Information")
+    st.title("Asuransi Hidup")
+    st.markdown("Dibuat Oleh :")
     st.write("NIM: 2021230002")
     st.write("Name: Rama Haddaf Syachriza")
     
