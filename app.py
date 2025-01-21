@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Set page config
 st.set_page_config(
-    page_title="Insurance Premium Prediction",
+    page_title="Prediksi Asuransi",
     page_icon="💰",
     layout="centered"
 )
